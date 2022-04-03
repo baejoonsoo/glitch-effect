@@ -16,7 +16,7 @@ h1 {
   font-size: 5rem;
   color: #f1f1f1;
   position: relative;
-  transform: skew(var(--skew));
+  transform: skew(var(--skew)) scale(var(--scale));
 }
 
 h1:before,
